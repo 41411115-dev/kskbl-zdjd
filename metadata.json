@@ -1,0 +1,6 @@
+{
+  "name": "豬哥亮小港國際大飯店 | 官方網站與線上預訂",
+  "description": "台灣秀場天王豬哥亮親自坐鎮！高雄小港旗艦五星級大飯店，入住即送《大尾鱸鰻3》首映電影票，提供會員專屬特惠、港都海景套房與線上即時訂房服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
